@@ -1,4 +1,4 @@
 # CARA PAKAI
 1. Ekstrak file ini ke dalam folder htdocs
 2. Jalankan Apcahe
-3. Buka localhost/namafile
+3. Buka localhost/namafolder
